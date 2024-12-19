@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "675fba1272f97c67ed4907fe"
+  },
+  "Name": "Python",
+  "Fees": "22000",
+  "Duration": "2.5 months"
+},
+{
+  "_id": {
+    "$oid": "6763c770ddc528a66d508f44"
+  },
+  "Name": "PPA",
+  "Fees": "18000",
+  "Duration": "2.5 months"
+},
+{
+  "_id": {
+    "$oid": "6763c7a6ddc528a66d508f45"
+  },
+  "Name": "LSP",
+  "Duration": "3 months",
+  "Fees": "19000"
+},
+{
+  "_id": {
+    "$oid": "6763e02fddc528a66d508f46"
+  },
+  "Name": "Angular MEAN Stack",
+  "Fees": "22000",
+  "Duration": "3.5 months"
+}]

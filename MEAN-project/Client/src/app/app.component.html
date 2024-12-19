@@ -1,0 +1,24 @@
+<div class="main-content">
+  <h1>MEAN stack application</h1>
+  <h2>Courses List in table format</h2>
+
+  <table>
+    <tr>
+      <td><strong>Name</strong></td>
+      <td><strong>Fees</strong></td>
+      <td><strong>Duration</strong></td>
+    </tr>
+    <tr *ngFor = "let coursedata of coursesdata" [attr.courseid]="'coursedata-' + coursedata._id">
+      <td>{{coursedata.Name}}</td>
+      <td>{{coursedata.Fees}}</td>
+      <td>{{coursedata.Duration}}</td>
+    </tr>
+  </table>
+
+  <h2>Courses List in JSON format</h2>
+
+  <h3 *ngIf = "coursesdata">
+    {{coursesdata | json}}
+  </h3>
+</div>
+<router-outlet />

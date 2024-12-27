@@ -1,0 +1,109 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Regency",
+      "address": "Satara Road",
+      "email": "RegencyInfo@gmail.com",
+      "services": "Thai + Japanese",
+      "mobile": 9090787856
+    },
+    {
+      "id": "2",
+      "name": "Grand Hayat",
+      "address": "Pune 4",
+      "email": "Hayat@gmail.com",
+      "services": "Indian",
+      "mobile": 8087808780
+    },
+    {
+      "id": "3",
+      "name": "Le Meridian",
+      "address": "Pune Mumbai highway",
+      "email": "Meridian@gmail.com",
+      "services": "Chinese",
+      "mobile": 98239823788
+    },
+    {
+      "id": "4",
+      "name": "Sushant",
+      "address": "Sus Pune",
+      "email": "sushantkhadilkar01@gmail.com",
+      "services": "Test service two",
+      "mobile": 91659889988
+    },
+    {
+      "id": "5",
+      "name": "Name new",
+      "address": "ffh hjhj",
+      "email": "fjdf@hjhj.com",
+      "services": "fhdfhf hfh",
+      "mobile": 986598658
+    },
+    {
+      "id": "6",
+      "name": "Test",
+      "address": "fkkfkffkk",
+      "email": "test123@test568.com",
+      "services": "Test dsdsdd",
+      "mobile": 986588998
+    },
+    {
+      "id": "7",
+      "name": "New restaurent",
+      "address": "Test dsdd",
+      "email": "newrestaurent@test.com",
+      "services": "test service",
+      "mobile": 9896666656
+    },
+    {
+      "id": 8,
+      "name": "ssassas",
+      "address": "Test address",
+      "email": "assas@dsdd.com",
+      "services": "sasas s",
+      "mobile": 9865897878
+    },
+    {
+      "id": 8,
+      "name": "Hard rock cafe",
+      "address": "Hard rock address",
+      "email": "hardrock@test.com",
+      "services": "Test service",
+      "mobile": 987899885
+    }
+  ],
+  "signup": [
+    {
+      "name": "Taj",
+      "email": "TajManagement@gmail.com",
+      "mobile": 9977997799,
+      "password": "password@123",
+      "id": "1"
+    },
+    {
+      "name": "Admin",
+      "email": "Marvellous@gmail.com",
+      "mobile": 7020717020,
+      "password": "Admin@123",
+      "id": "2"
+    }
+  ],
+  "Contacts": [
+    {
+      "Name": "Rahul Joshi",
+      "Mobile": 909090455,
+      "id": "a8fe"
+    },
+    {
+      "Name": "Sandesh Kadam",
+      "Mobile": 897568989,
+      "id": "9ca1"
+    },
+    {
+      "Name": "Sushant Khadilkar",
+      "Mobile": 9764120339,
+      "id": "739d"
+    }
+  ]
+}
